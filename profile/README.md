@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Profile views](https://komarev.com/ghpvc/?username=Adityaadpandey&label=Profile%20views)](https://github.com/Adityaadpandey)
+[![Profile views](https://komarev.com/ghpvc/?username=Adpandeyadp&label=Profile%20views)](https://github.com/Adpandeyadp)
 
 
 ## 🛠️ Languages and tools
@@ -21,7 +21,7 @@
 ---
 ## 📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/Adityaadpandey?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://Adityaadpandey.me)
+[![Metrics](https://metrics.lecoq.io/Adpandeyadp?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://Adpandeyadp.me)
 
 ---
 <!--
