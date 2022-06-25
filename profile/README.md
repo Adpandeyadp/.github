@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Profile views](https://komarev.com/ghpvc/?username=Adpandeyadp&label=Profile%20views)](https://github.com/Adpandeyadp)
+[![Profile views](https://komarev.com/ghpvc/?username=adityaadpandey&label=Profile%20views)](https://github.com/adityaadpandey)
 
 
 ## 🛠️ Languages and tools
